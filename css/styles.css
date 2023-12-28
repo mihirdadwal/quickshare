@@ -1,0 +1,21 @@
+canvas {
+    
+    /* border: 1px solid #000; */
+  }
+  body{
+    /* margin: 0; */
+    /* width: 315; */
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      /* height: 100vh; */
+      background-color: #f0f0f0; /* Optional: Set a background color */
+  }
+  .canvas{
+    /* width: 200px; */
+    /* height: 200px; */
+    background-color: #4e4f53;
+    color: #fff;
+    /* text-align: center; */
+    /* line-height: 200px; */
+  }
